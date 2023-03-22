@@ -1,6 +1,6 @@
 import os
 import numpy as np
-
+https://github.com/leonardoVsantoro/AOC22/blob/main/day_01.txt
 filename = 'input_1.txt'
 data = []
 with open(filename) as fp:
